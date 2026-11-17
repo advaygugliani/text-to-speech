@@ -1,0 +1,12 @@
+        THANKS FOR DOWNLOADING ADVAY'S TEXT TO SPEECH!
+
+Please keep a few points in mind:-
+
+1) You only need to run the 'Text To Speech.py' file to use the program.
+
+2) In the program, if you feel that the words have a big gap between them, select the option for 'fast' pc when asked.
+
+3) If needed or told by Advay that a new update has been added, run 'the audio_update.py' file.
+⚠ MAKE SURE YOU INSTALL 'mysql.connector' ON YOUR SYSTEM BEFORE RUNNING THE UPDATE PROGRAM AS IT IS NEEDED TO DOWNLOAD THE NEW FILES!
+
+                 THANKS FOR CO-OPERATING!
